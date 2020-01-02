@@ -44,14 +44,14 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 > 1. Pierreflix étant basé sur le puissant Plex, il est nécessaire de créer un compte sur le site de Plex (de préférence avec un mail @gmail.com) : [Inscription](https://www.plex.tv/sign-up/)
 
-```markdown
+
 > 2. Me communiquer l'adresse mail utilisée par le moyen de votre choix. Eh oui, si vous êtes arrivés ici, c'est que vous me connaissez.
-```
-```markdown
+
+
 > 3. Attendre le mail de confirmation d'enregistrement sur Pierreflix
-```
-```markdown
+
+
 > 4. Accéder a Pierreflix depuis le support de votre choix : via l'application iOS ou Android, sur votre TV connectée, l'application PC, ou directement sur le site : [Pierreflix](https://pierrelegeek.ovh)
-   ```
+
    
    **nb : Arès vous être connecté, il est recommandé d'aller dans les paramètres -> compte et de définir un nom d'utilisateur. Puis paramètres -> services en ligne, et de désactiver tout les services. **
