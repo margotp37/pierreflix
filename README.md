@@ -41,9 +41,9 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ### Comment on fait ?
 
-```markdown
+
 > 1. Pierreflix étant basé sur le puissant Plex, il est nécessaire de créer un compte sur le site de Plex (de préférence avec un mail @gmail.com) : [Inscription](https://www.plex.tv/sign-up/)
-```
+
 ```markdown
 > 2. Me communiquer l'adresse mail utilisée par le moyen de votre choix. Eh oui, si vous êtes arrivés ici, c'est que vous me connaissez.
 ```
