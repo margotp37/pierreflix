@@ -53,5 +53,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 > 4. Accéder a Pierreflix depuis le support de votre choix : via l'application iOS ou Android, sur votre TV connectée, l'application PC, ou directement sur le site : [Pierreflix](https://pierrelegeek.ovh)
 
-   
+   ```markdown
    **nb : Arès vous être connecté, il est recommandé d'aller dans les paramètres -> compte et de définir un nom d'utilisateur. Puis paramètres -> services en ligne, et de désactiver tout les services. **
+```
